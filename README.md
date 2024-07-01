@@ -23,3 +23,9 @@ start_date = '2000-01-01'
 carteira.plot(subplots=True, figsize=(22,8))
 plt.grid()
 plt.show()
+
+##
+
+![image](https://github.com/RafaelDuodecim/preco_do_dolar/assets/148975110/6eb9f8f8-a7f2-4a20-a8c6-565c2e921908)
+
+
